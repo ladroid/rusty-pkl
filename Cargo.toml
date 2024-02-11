@@ -1,6 +1,6 @@
 [package]
 name = "rusty-pkl"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["ladroid"]
 description = """
 Lightweight Pkl parser for Rust
