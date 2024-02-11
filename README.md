@@ -75,6 +75,19 @@ fn main() {
 }
 ```
 
+## Contributing
+
+Contributions are absolutely, positively welcome and encouraged! Contributions
+come in many forms. You could:
+
+  1. Submit a feature request or bug report as an [issue].
+  2. Ask for improved documentation as an [issue].
+  3. Comment on issues that require feedback.
+  4. Contribute code via [pull requests].
+
+[issue]: https://github.com/ladroid/pkl-rs/issues
+[pull requests]: https://github.com/ladroid/pkl-rs/pulls
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
