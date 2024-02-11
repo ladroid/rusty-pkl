@@ -1,6 +1,6 @@
-# pkl-rs
+# rusty-pkl
 
-pkl-rs is a Rust library for parsing Pkl configuration files. Pkl is a simple configuration language that supports hierarchical structures and various data types.
+rusty-pkl is a Rust library for parsing Pkl configuration files. Pkl is a simple configuration language that supports hierarchical structures and various data types.
 
 ## Features
 
@@ -9,25 +9,15 @@ pkl-rs is a Rust library for parsing Pkl configuration files. Pkl is a simple co
 
 ## Usage
 
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/rust-pkl-parser.git
-   ```
+1. Clone this repository to your local machine
 
 2. Navigate to the project directory:
-
-   ```bash
-   cd rust-pkl-parser
-   ```
 
 3. Run the parser with the desired Pkl file:
 
    ```bash
-   cargo run --example path/to/your/file.pkl
+   cargo run --example test.rs
    ```
-
-   Replace `path/to/your/file.pkl` with the path to your Pkl file.
 
 ## Example
 
