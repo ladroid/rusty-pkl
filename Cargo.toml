@@ -1,0 +1,25 @@
+[package]
+name = "pkl-rs"
+version = "0.1.0"
+authors = ["ladroid"]
+description = """
+Lightweight Pkl parser for Rust
+"""
+repository = "https://github.com/ladroid/Parfait"
+edition = "2021"
+license = "MIT"
+categories = ["parsing", "parser-implementations"]
+keywords = ["parser", "parsing", "pkl"]
+readme = "README.md"
+exclude = ["target/"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[lib]
+path = "src/lib.rs"
+
+[[example]]
+name = "test"
+path = "examples/test.rs"
