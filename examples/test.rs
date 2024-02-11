@@ -1,4 +1,4 @@
-use pkl_rs::*;
+use rusty_pkl::*;
 
 fn main() {
     match parse_pkl("examples\\config.pkl") {
